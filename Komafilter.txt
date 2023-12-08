@@ -1,0 +1,15 @@
+! Title: KOMA filter 
+! Expires: 4 days
+! Homepage: https://komagoma.com
+! Licence: free
+! Version: 20231208
+
+! ---------- Perplexity ----------
+perplexity.ai###__next > main.__variable_532e43.__variable_716da7.__variable_18eda8 > div.fixed.top-0.left-0.bottom-0.right-0.z-20
+
+! ---------- MANGA ----------
+freepdfcomic.com###masthead > div.custom-header
+
+mangaraw.io###post-148903 > header.entry-header:first-child
+mangaraw.io##div.all-page:first-child > div.hello.bg-dark.text-light.mt-2.text-center:nth-child(2) > div.container
+mangaraw.io##div.all-page:first-child > nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.text-uppercase.shadow-sm.sticky-top:first-child
