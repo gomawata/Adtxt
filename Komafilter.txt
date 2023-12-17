@@ -9,7 +9,6 @@ perplexity.ai###__next > main.__variable_532e43.__variable_716da7.__variable_18e
 
 ! ---------- MANGA ----------
 freepdfcomic.com###masthead > div.custom-header
-
 mangaraw.io###post-148903 > header.entry-header:first-child
 mangaraw.io##div.all-page:first-child > div.hello.bg-dark.text-light.mt-2.text-center:nth-child(2) > div.container
 mangaraw.io##div.all-page:first-child > nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.text-uppercase.shadow-sm.sticky-top:first-child
