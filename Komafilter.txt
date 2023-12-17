@@ -12,3 +12,8 @@ freepdfcomic.com###masthead > div.custom-header
 mangaraw.io###post-148903 > header.entry-header:first-child
 mangaraw.io##div.all-page:first-child > div.hello.bg-dark.text-light.mt-2.text-center:nth-child(2) > div.container
 mangaraw.io##div.all-page:first-child > nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.text-uppercase.shadow-sm.sticky-top:first-child
+! ---------- オーガ速報 ----------
+h-pon.doorblog.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(17) > div.plugin-article_search.plugin-box.box.box-padding.box-margin.box-border
+h-pon.doorblog.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(16)
+h-pon.doorblog.jp###lite_link
+h-pon.doorblog.jp##div.container:nth-child(5) > div.container-inner:first-child > div.content:first-child > aside.section-box:nth-child(9)
