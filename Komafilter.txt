@@ -2,7 +2,7 @@
 ! Expires: 4 days
 ! Homepage: https://komagoma.com
 ! Licence: free
-! Version: 20231208
+! Version: 20231217
 
 ! ---------- Perplexity ----------
 perplexity.ai###__next > main.__variable_532e43.__variable_716da7.__variable_18eda8 > div.fixed.top-0.left-0.bottom-0.right-0.z-20
